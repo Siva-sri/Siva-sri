@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubasri S</h1>
+<h1 align="center">Hi 👋, I'm Rubasri </h1>
 <h3 align="center">A upcoming Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **JAVA,DSA**
